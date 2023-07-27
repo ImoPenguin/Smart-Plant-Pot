@@ -6,10 +6,12 @@ https://youtu.be/45vXlc0HOCU
 
 
 Overview:
+
 The Smart Plant Care System is an Arduino-based project that allows users to monitor and maintain optimal conditions for different types of plants, ensuring their healthy growth and vitality. 
 This repository contains the complete code and documentation for the system.
 
 Features:
+
 Plant Profiles: The system supports multiple plant profiles with specific ideal condition ranges for temperature, humidity, and soil moisture. 
 Users can easily switch between profiles based on the plant they are cultivating.
 
