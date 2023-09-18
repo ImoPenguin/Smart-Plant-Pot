@@ -1,4 +1,4 @@
-# Smart-Home-Plant-Pot
+# Smart Plant Pot
 Introducing the Smart Home Plant Pot. This was a group project that was selected to be part of the UTS Tech Festival 2023 - Prototype Showcase. 
 
 Here is a video explaining the project:
